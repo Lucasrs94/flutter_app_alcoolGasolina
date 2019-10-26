@@ -16,6 +16,7 @@ class Logo extends StatelessWidget {
         ),
         SizedBox  (
         height: 10,
+        
         ),
     Text(
     "Álcool ou Gasolina",

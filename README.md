@@ -1,4 +1,5 @@
-#  App Android Projeto alcool ou gasloina 
+#  App Android Projeto álcool ou gasolina.
 
 
-refere-se qual o combustivel utiliza-lo, escolhendo a melhor forma de comprar------
+
+refere-se  projeto simples qual  o mesmo realiza cálculos matematicos   optando  escolher qual opção de  combustivel utiliza-lo.
